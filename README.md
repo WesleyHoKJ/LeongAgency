@@ -4,12 +4,13 @@ This project was established by Ho Kai Jun, Jalan Bunga Sri Pagi, Taman Malim Na
 
 Elements/information needed:
 1) Name 
-2) Phone number 
-3) Email
-4) Living area
-5) Occupation
-6) Net income per month
-7) View about present and future
-8) Reasons buy and not buy insurance
-9) Got son/daughter?
-10) Opinion on life & death and future of their family members if the person passed away
+2) Phone number
+3) Generation 
+4) Email
+5) Living area
+6) Occupation
+7) Net income per month
+8) View about present and future
+9) Reasons buy and not buy insurance
+10) Got son/daughter?
+11) Opinion on life & death and future of their family members if the person passed away
